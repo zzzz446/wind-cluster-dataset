@@ -1,0 +1,1 @@
+The datasets used in this study are publicly available (China data from https://www.dcic-china.com/competitions/10098; Pakistan data from https://www.kaggle.com/datasets/mubashirrahim/wind-power-generation-data-forecasting).
