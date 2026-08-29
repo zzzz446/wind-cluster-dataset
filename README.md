@@ -2,7 +2,7 @@ Wind farm cluster available datasets
 
 List of open source wind farm datasets：
 
-The dataset on wind farm clusters in China’s eastern coastal regions originates from a competition project within Digital China Innovation Contest
+The dataset on wind farm clusters in China’s eastern coastal region originates from a competition project within Digital China Innovation Contest
 (https://www.dcic-china.com/competitions/10098).
 
 -includes 5 Wind farms，actual electricity generation and 10 meteorological variables
