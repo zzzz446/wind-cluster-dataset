@@ -28,6 +28,36 @@ The China wind farm cluster dataset originates from a competition project organi
 * **Temporal resolution:** 15 minutes
 * **Region:** Eastern coastal China
 
+### Correlation of Daily Mean Power Generation
+
+The Pearson correlation coefficients of the daily mean power generation among different wind farms are shown below.
+
+🇨🇳 China Wind Farm Cluster
+
+
+<img width="434" height="391" alt="image" src="https://github.com/user-attachments/assets/f055993c-a012-4383-9734-a16f82e307a6" />
+
+The five wind farms in the China dataset exhibit relatively strong correlations in daily mean power generation, with pairwise correlation coefficients ranging from approximately 0.60 to 0.86.
+
+
+
+### Variables Included in the Datasets
+Dataset 1 — China Wind Farm Cluster
+* Variable	Unit
+* Power output	MW
+* Pressure	Pa
+* Relative humidity	%
+* Cloud cover	—
+* 10-m wind speed	m/s
+* 10-m wind direction	°
+* Temperature	K
+* Radiation intensity	J/m²
+* Rainfall	m
+* 100-m wind speed	m/s
+* 100-m wind direction	°
+
+The China dataset contains 1 power variable and 10 meteorological variables.
+
 ### Original Source
 
 🔗 [Digital China Innovation Contest](https://www.dcic-china.com/competitions/10098)
@@ -35,6 +65,8 @@ The China wind farm cluster dataset originates from a competition project organi
 > The dataset contains synchronized wind power generation and meteorological observations for multiple wind farms, making it suitable for multi-site wind power forecasting and wind farm cluster forecasting studies.
 
 ---
+
+
 
 ##  2. Pakistan Wind Farm Cluster Dataset
 
@@ -49,6 +81,26 @@ The Pakistan wind farm cluster dataset originates from a corporate wind power fo
 * **Temporal resolution:** 1 hour
 * **Region:** Pakistan
 * **Power preprocessing:** Power generation values were pre-normalized in the original dataset
+
+### Pakistan Wind Farm Cluster
+
+<img width="434" height="391" alt="image" src="https://github.com/user-attachments/assets/035e2045-642e-4e67-8b81-7a0a654869e5" />
+
+The four wind farms in the Pakistan dataset show relatively weaker correlations, with pairwise correlation coefficients ranging from approximately 0.16 to 0.58.
+
+### Dataset 2 — Pakistan Wind Farm Cluster
+Variable	Unit
+* Power	Normalized
+* 2-m temperature	°F
+* 2-m relative humidity	%
+* 2-m dew point	°F
+* 10-m wind speed	m/s
+* 100-m wind speed	m/s
+* 10-m wind direction	°
+* 100-m wind direction	°
+* 10-m wind gusts	m/s
+
+The Pakistan dataset contains 1 power variable and 8 meteorological variables.
 
 ### Original Source
 
